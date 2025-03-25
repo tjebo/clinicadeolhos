@@ -10,8 +10,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - team.qmd
+      - somos.qmd
+      - cirurgias.qmd
+      - exames.qmd
+      - equipe.qmd
+      - faf.qmd
+      - convenios.qmd
+      - chegar.qmd
+      - contato.qmd
 
 format:
   html:

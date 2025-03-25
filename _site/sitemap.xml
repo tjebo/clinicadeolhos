@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://clinicadeolhos.netlify.app/team.html</loc>
-    <lastmod>2025-03-25T20:49:36.000Z</lastmod>
+    <loc>https://clinicadeolhos.netlify.app/somos.html</loc>
+    <lastmod>2025-03-25T21:46:29.000Z</lastmod>
   </url>
   <url>
-    <loc>https://clinicadeolhos.netlify.app/about.html</loc>
-    <lastmod>2025-03-25T20:07:08.000Z</lastmod>
+    <loc>https://clinicadeolhos.netlify.app/faf.html</loc>
+    <lastmod>2025-03-25T21:26:20.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clinicadeolhos.netlify.app/equipe.html</loc>
+    <lastmod>2025-03-25T21:36:06.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clinicadeolhos.netlify.app/contato.html</loc>
+    <lastmod>2025-03-25T21:40:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clinicadeolhos.netlify.app/chegar.html</loc>
+    <lastmod>2025-03-25T21:39:57.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clinicadeolhos.netlify.app/cirurgias.html</loc>
+    <lastmod>2025-03-25T21:37:05.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clinicadeolhos.netlify.app/convenios.html</loc>
+    <lastmod>2025-03-25T21:29:10.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clinicadeolhos.netlify.app/exames.html</loc>
+    <lastmod>2025-03-25T21:39:05.000Z</lastmod>
   </url>
   <url>
     <loc>https://clinicadeolhos.netlify.app/index.html</loc>
-    <lastmod>2025-03-25T20:55:10.000Z</lastmod>
+    <lastmod>2025-03-25T21:46:30.000Z</lastmod>
   </url>
 </urlset>

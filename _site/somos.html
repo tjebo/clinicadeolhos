@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Clinica de olhos Aderbal Alves</title>
+<title>Clinica de olhos Aderbal Alves - Quem somos</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,6 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -89,11 +92,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./somos.html"> 
+    <a class="nav-link active" href="./somos.html" aria-current="page"> 
 <span class="menu-text">Quem somos</span></a>
   </li>  
   <li class="nav-item">
@@ -143,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Clinica de olhos Aderbal Alves</h1>
+<h1 class="title">Quem somos</h1>
 </div>
 
 
@@ -160,7 +163,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="http://www.clinicadeolhosaderbalalves.com.br/wp-content/uploads/2013/02/logop.png"><img src="http://www.clinicadeolhosaderbalalves.com.br/wp-content/uploads/2013/02/logop-300x85.png" class="img-fluid" alt="logop"></a></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="aderbal_chico.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="aderbal_chico.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:30.0%" alt="O aderbal e o neto chico"></a></p>
+</figure>
+</div>
+<p>A <strong>Clinica de Olhos Aderbal Alves</strong> foi fundada em 1988, tem como fundamento oferecer aos nossos pacientes sempre o que há de mais moderno e eficiente na oftalmologia mundial. Não só investindo na aquisição de equipamentos oftalmológicos de última geração,mas também mantendo uma equipe médica altamente qualificada e sempre atualizada frequentando e proferindo palestras em congressos em todo o Brasil e no exterior.</p>
+<p><strong>Nossa Sede :</strong></p>
+<p>Av. Nossa Senhora de Copacabana, 1.133 – sobrelojas 208-211</p>
+<p>Copacabana – Rio de Janeiro – RJ</p>
+<p>Cep: 22.070-011</p>
+<p>Tel/Fax : (21) 2522-0241 / 2522-0055</p>
+<p>emails: contato@clinicadeolhosaderbalalves.com.br</p>
 
 
 
@@ -575,6 +589,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","loop":false,"closeEffect":"zoom","openEffect":"zoom","selector":".lightbox"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
