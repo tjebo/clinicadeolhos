@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://spontaneous-mousse-d0915e.netlify.app/index.html</loc>
-    <lastmod>2025-03-25T20:34:10.000Z</lastmod>
+    <loc>https://clinicadeolhos.netlify.app/team.html</loc>
+    <lastmod>2025-03-25T20:49:36.000Z</lastmod>
   </url>
   <url>
-    <loc>https://spontaneous-mousse-d0915e.netlify.app/about.html</loc>
+    <loc>https://clinicadeolhos.netlify.app/about.html</loc>
     <lastmod>2025-03-25T20:07:08.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clinicadeolhos.netlify.app/index.html</loc>
+    <lastmod>2025-03-25T20:55:10.000Z</lastmod>
   </url>
 </urlset>

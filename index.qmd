@@ -3,3 +3,5 @@ title: "Clinica de olhos Aderbal Alves"
 ---
 
 O novo site do Aderbal de Albuquerque Alves Junior
+
+![](aderbal_chico.jpg){.lightbox fig-alt="O aderbal e o neto chico" fig-align="left" width=30%}
