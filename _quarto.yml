@@ -4,12 +4,10 @@ project:
 website:
   title: "Clinica de olhos Aderbal Alves"
   site-url: https://clinicadeolhos.netlify.app
-  description: O site do Aderbal
+  description: Clinica de olhos Aderbal Alves
   image: aderbal_chico.jpg
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - somos.qmd
       - cirurgias.qmd
       - exames.qmd

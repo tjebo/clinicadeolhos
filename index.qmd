@@ -2,4 +2,4 @@
 title: "Clinica de olhos Aderbal Alves"
 ---
 
-[![](http://www.clinicadeolhosaderbalalves.com.br/wp-content/uploads/2013/02/logop-300x85.png){alt="logop"}](http://www.clinicadeolhosaderbalalves.com.br/wp-content/uploads/2013/02/logop.png)
+![](logop.png)

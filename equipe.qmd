@@ -6,17 +6,16 @@ A equipe médica da Clinica de Olhos Aderbal Alves é formada por oftalmologista
 
 Conheça nossa equipe :
 
--   Dr. Aderbal de Albuquerque Alves Jr.
--   Dra. Aletea Cerqueira Pompei
--   Dra. Andressa Garcia Lopes
--   Dr. Demian Temponi Eskenazi
--   Dr. João Ricardo Tinoco de Brito
--   Dr. José Carlos Côrtes Mayrink
--   Dra. Juliana Bohn Alves
--   Dra. Karla Rezende Guerra Drummond
--   Dr. Luiz Filipe de Albuquerque Alves
--   Dra. Marcela Bohn de Albuuquerque Alves
--   Dr. Marco Antonio Albuquerque Alves
--   Dr. Monick Goecking Cardoso Vieira
--   Dra. Valéria Lemos Gomes S. Homem
--   Dra. Vanessa Andrade de Azevedo
+- Aderbal de Albuquerque Alves Jr.
+- Cláudia Bastos
+- Cláudia Costa Mayrink
+- Demian Eskenazi Temponi
+- João Ricardo Tinoco de Brito
+- José Carlos Côrtes Mayrink
+- Juliana Bohn Alves
+- Luiz Filipe de Albuquerque Alves
+- Marcela Bohn de Albuquerque Alves
+- Marco Antonio de S.Albuquerque Alves
+- Monick Goecking Cardoso Vieira 
+- Valéria Lemos Gomes de S. Homem
+- Virginia Cavalcanti Perrut

@@ -2,6 +2,8 @@
 title: "Quem somos"
 ---
 
+![](logop.png)
+
 A **Clinica de Olhos Aderbal Alves** foi fundada em 1988, tem como fundamento oferecer aos nossos pacientes sempre o que há de mais moderno e eficiente na oftalmologia mundial. Não só investindo na aquisição de equipamentos oftalmológicos de última geração,mas também mantendo uma equipe médica altamente qualificada e sempre atualizada frequentando e proferindo palestras em congressos em todo o Brasil e no exterior.
 
 **Nossa Sede :**
